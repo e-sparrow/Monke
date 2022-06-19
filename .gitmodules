@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/ESparrow/Utils"]
+	path = Assets/Plugins/ESparrow/Utils
+	url = https://github.com/BlackSparrow56/Utils
